@@ -1,0 +1,2 @@
+# trans
+Stupid translation

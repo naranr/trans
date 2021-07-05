@@ -2,7 +2,8 @@
 
 #### Install
 ```
-npm install -g 
+npm install -g https://raw.githubusercontent.com/naranr/trans/master/trans-1.0.25.tgz
+trans --help
 ```
 
 #### Usage

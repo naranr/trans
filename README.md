@@ -6,6 +6,11 @@ npm install -g https://raw.githubusercontent.com/naranr/trans/master/trans-1.0.2
 trans --help
 ```
 
+#### Update
+```
+npm update -g https://raw.githubusercontent.com/naranr/trans/master/trans-1.1.3.tgz
+```
+
 #### Usage
 1. 获取模版中文
 ```

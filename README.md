@@ -8,7 +8,7 @@ trans --help
 
 #### Update
 ```
-npm update -g https://raw.githubusercontent.com/naranr/trans/master/trans-1.1.4.tgz
+npm install -g https://raw.githubusercontent.com/naranr/trans/master/trans-1.1.4.tgz
 ```
 
 #### Usage
